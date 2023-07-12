@@ -21,4 +21,4 @@ This repo contains all the practice questions and their solutions, that I come a
 - [Positive or Negative](PositiveOrNegative.java)
 - [Even or Odd](EvenOddQuestion.java)
 - [Largest Between 2 Numbers](LargestOf2.java)
-- [Leetcode 1281. Subtract the Product and Sum of Digits of an Integer](SubtractProdAndSumOfDigitsOfInt.java)
+- [Subtract the Product and Sum of Digits of an Integer (Leetcode 1281)](SubtractProdAndSumOfDigitsOfInt.java)
