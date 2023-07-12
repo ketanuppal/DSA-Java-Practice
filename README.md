@@ -19,3 +19,4 @@ This repo contains all the practice questions and their solutions, that I come a
 
 - [Positive or Negative](PositiveOrNegative.java)
 - [Even or Odd](EvenOddQuestion.java)
+- [Largest Between 2 Numbers](LargestOf2.java)
