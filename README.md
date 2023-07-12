@@ -9,6 +9,7 @@ This repo contains all the practice questions and their solutions, that I come a
 - [Simple Interest](SimpleInterest.java)
 - [Average Marks](AverageMarks.java)
 - [Rectangular Area](RectangularArea.java)
+- [Greetings With Name](Greetings.java)
 
 ## How is Data Stored?
 
