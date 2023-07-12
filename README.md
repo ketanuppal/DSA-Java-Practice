@@ -14,6 +14,7 @@ This repo contains all the practice questions and their solutions, that I come a
 ## How is Data Stored?
 
 - [Print ASCII Value](PrintASCIIValue.java)
+- [Convert INR to USD](RupeeToUSD.java)
 
 ## Conditionals and Loops
 
